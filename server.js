@@ -1,16 +1,20 @@
 const express = require('express');
 const fs = require('fs');
 const path = require('path');
+const cors = require('cors');  // Import CORS
 const app = express();
-const port = 3000;
+const port = process.env.PORT || 3000;
 
-// Serve static files (HTML, CSS, JS) from the current directory
+// Enable CORS
+app.use(cors());
+
+// Serve static files
 app.use(express.static(path.join(__dirname)));
 
 // Middleware to parse JSON requests
 app.use(express.json());
 
-// POST endpoint to receive survey data
+// POST endpoint
 app.post('/submit-survey', (req, res) => {
     const receivedData = req.body;
     const dataToSave = JSON.stringify(receivedData, null, 2);
