@@ -1,0 +1,72 @@
+{
+  "survey": {
+    "question1": "test",
+    "question2": "test"
+  },
+  "metadata": {
+    "latitude": 52.363226,
+    "longitude": 4.913616,
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0",
+    "language": "en-GB",
+    "screenSize": {
+      "width": 1440,
+      "height": 900
+    },
+    "viewportSize": {
+      "width": 877,
+      "height": 780
+    },
+    "timeZone": "Europe/Bucharest"
+  }
+}
+
+---
+
+{
+  "survey": {
+    "question1": "test",
+    "question2": "test"
+  },
+  "metadata": {
+    "latitude": 52.363226,
+    "longitude": 4.913616,
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0",
+    "language": "en-GB",
+    "screenSize": {
+      "width": 1440,
+      "height": 900
+    },
+    "viewportSize": {
+      "width": 877,
+      "height": 780
+    },
+    "timeZone": "Europe/Bucharest"
+  }
+}
+
+---
+
+{
+  "survey": {
+    "question1": "test",
+    "question2": "test"
+  },
+  "metadata": {
+    "latitude": 52.363226,
+    "longitude": 4.913616,
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0",
+    "language": "en-GB",
+    "screenSize": {
+      "width": 1440,
+      "height": 900
+    },
+    "viewportSize": {
+      "width": 877,
+      "height": 780
+    },
+    "timeZone": "Europe/Bucharest"
+  }
+}
+
+---
+
