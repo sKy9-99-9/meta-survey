@@ -34,7 +34,7 @@ document.getElementById('surveyForm').addEventListener('submit', function(event)
         };
 
         // Send data to the server
-        fetch('/submit-survey', {  // Update with your server's endpoint
+        fetch('https://meta-survey.onrender.com', {  // Update with your server's endpoint
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json'
